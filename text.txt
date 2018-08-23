@@ -1,8 +1,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 new add
 new 2
 =======
 >>>>>>> parent of 0296655... new add 1 text.txt
 =======
 >>>>>>> parent of 0296655... new add 1 text.txt
+=======
+new add
+new 2
+>>>>>>> parent of 8fa1486... new add
