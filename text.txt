@@ -6,8 +6,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of e12f3cd... new add
+=======
+>>>>>>> parent of aad75a3... 11
 =======
 >>>>>>> parent of e12f3cd... new add
 =======
@@ -25,10 +28,13 @@ new 2
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 781eee6... new 2
 =======
 >>>>>>> parent of 781eee6... new 2
+=======
+>>>>>>> parent of aad75a3... 11
 =======
 >>>>>>> parent of 0296655... new add 1 text.txt
 =======
@@ -41,9 +47,12 @@ new 2
 <<<<<<< HEAD
 =======
 >>>>>>> parent of e12f3cd... new add
+<<<<<<< HEAD
 =======
 >>>>>>> parent of e12f3cd... new add
 =======
 >>>>>>> parent of 781eee6... new 2
 =======
 >>>>>>> parent of 781eee6... new 2
+=======
+>>>>>>> parent of aad75a3... 11
