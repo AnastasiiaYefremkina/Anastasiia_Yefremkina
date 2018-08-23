@@ -5,10 +5,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of e12f3cd... new add
 =======
 >>>>>>> parent of e12f3cd... new add
+=======
+>>>>>>> parent of 781eee6... new 2
 =======
 >>>>>>> parent of 781eee6... new 2
 =======
@@ -21,6 +24,9 @@ new 2
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 781eee6... new 2
 =======
 >>>>>>> parent of 781eee6... new 2
 =======
@@ -32,9 +38,12 @@ new 2
 =======
 >>>>>>> parent of e12f3cd... new add
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of e12f3cd... new add
 =======
 >>>>>>> parent of e12f3cd... new add
+=======
+>>>>>>> parent of 781eee6... new 2
 =======
 >>>>>>> parent of 781eee6... new 2
