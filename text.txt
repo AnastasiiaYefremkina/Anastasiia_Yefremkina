@@ -3,6 +3,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of e12f3cd... new add
 =======
 >>>>>>> parent of e12f3cd... new add
 =======
@@ -11,6 +14,7 @@ new add
 new 2
 =======
 >>>>>>> parent of 0296655... new add 1 text.txt
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -19,6 +23,8 @@ new 2
 new add
 new 2
 >>>>>>> parent of 8fa1486... new add
+=======
+>>>>>>> parent of e12f3cd... new add
 =======
 >>>>>>> parent of e12f3cd... new add
 =======
